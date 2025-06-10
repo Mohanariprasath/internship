@@ -1,0 +1,16 @@
+#outer-box{
+  border: 10px solid  rebeccapurple;
+}
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.white-text{
+  color: aliceblue;
+  background-color: red;
+}
