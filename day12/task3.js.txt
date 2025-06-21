@@ -1,0 +1,4 @@
+let name="wick";
+let age=30;
+let istudent="true"
+console.log("My name is "+name+", I am "+age+"years old.Student:"+istudent);

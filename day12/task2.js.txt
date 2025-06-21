@@ -1,0 +1,4 @@
+let a=prompt("enter a tweet: ");
+let cnt=a.length;
+let totlenght=140;
+alert("you have used: "+cnt+ " | remaining: "+(totlenght-cnt)+ " char");    
